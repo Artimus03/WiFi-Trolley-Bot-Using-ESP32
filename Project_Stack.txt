@@ -1,0 +1,48 @@
+
+------------------------------------------
+
+Project Title: WiFi Trolley Bot
+
+--------------------------------------------
+
+Project Members : 
+
+Srivatsan N   | 225003156 | III B. Tech CSE 'C'
+Abinash S     | 225003003 | III B. Tech CSE 'C'
+Hari Prasad S | 225003042 | III B. Tech CSE 'C'
+
+--------------------------------------------
+
+Project Idea:
+
+- Developed a WiFi Trolley Bot using ESP32 for real-time data transmission and wireless control.
+- Created a Java-based control application for seamless WiFi communication with the ESP32 module.
+- Integrated as part of MHI-sponsored IIoT training to enhance automation and operational efficiency.
+- Focused on reducing manual intervention and optimizing industrial processes through IIoT-enabled systems.
+
+--------------------------------------------
+
+Project Stack for WiFi Trolley Bot
+
+Microcontroller:
+    - ESP32 - for wireless communication and control.
+
+Programming Languages:
+   - Java - for developing the control application.
+   - C/C++ - for programming the ESP32.
+
+Frameworks and Libraries:
+   - Arduino IDE - for ESP32 programming.
+
+Communication Protocol:
+   - Wi-Fi - for wireless connectivity.
+   - MQTT or HTTP - for data transmission between the control app and the ESP32.
+
+Development Tools:
+   - Eclipse IDE or IntelliJ IDEA - for Java application development.
+   - Git - for version control.
+
+Testing Tools:
+   - JUnit - for unit testing the Java application.
+
+---------------------------------------------
